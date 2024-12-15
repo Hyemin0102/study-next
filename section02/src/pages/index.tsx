@@ -27,7 +27,7 @@ export default function Home() {
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
         <main className={styles.main}>
-         <h1>제목입니다</h1>
+         <h1>내용변경경</h1>
         </main>
         <footer className={styles.footer}>
           <a
